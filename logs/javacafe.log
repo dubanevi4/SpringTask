@@ -1,0 +1,16 @@
+2026-04-13 15:49:40.834 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2026-04-13 15:49:40.922 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 73 ms. Found 1 JDBC repository interface.
+2026-04-13 15:49:41.162 [main] INFO  c.e.j.c.DatabaseConfiguration - Configuring H2 embedded database
+2026-04-13 15:49:41.171 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-04-13 15:49:41.431 [main] INFO  c.e.j.c.DatabaseConfiguration - H2 database configured successfully
+2026-04-13 15:49:41.761 [main] INFO  c.e.j.r.impl.DBBeverageRepository - DBBeverageRepository initialized with Spring Data JDBC
+2026-04-13 15:49:42.000 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Successfully loaded 4 beverages from JSON file
+2026-04-13 15:49:42.003 [main] INFO  c.e.j.c.DatabaseConfiguration - Creating JdbcTemplate bean
+2026-04-13 15:49:42.036 [main] INFO  c.ehu.javacafe.service.CoffeeService - Service: Fetching all beverages
+2026-04-13 15:49:42.036 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-13 15:49:42.036 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-13 15:49:42.036 [main] DEBUG c.ehu.javacafe.service.CoffeeService - Service: Retrieved 4 beverages
+2026-04-13 15:49:42.039 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Fetching beverage by ID: 1
+2026-04-13 15:49:42.041 [main] INFO  c.e.j.s.BeverageSelectionStatsService - Beverage selection stats: {1=1}
+2026-04-13 15:49:45.055 [main] INFO  c.e.j.s.DailyBeverageDiscountService - DailyBeverageDiscountService initialized
+2026-04-13 15:49:45.056 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Shutting down embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false'

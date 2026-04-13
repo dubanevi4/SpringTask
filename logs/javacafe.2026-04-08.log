@@ -1,0 +1,11 @@
+2026-04-08 13:23:55.318 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2026-04-08 13:23:55.397 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 68 ms. Found 1 JDBC repository interface.
+2026-04-08 13:23:55.668 [main] INFO  c.e.j.c.DatabaseConfiguration - Configuring H2 embedded database
+2026-04-08 13:23:55.668 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-04-08 13:23:56.006 [main] INFO  c.e.j.c.DatabaseConfiguration - H2 database configured successfully
+2026-04-08 13:23:56.356 [main] INFO  c.e.j.r.impl.DBBeverageRepository - DBBeverageRepository initialized with Spring Data JDBC
+2026-04-08 13:23:56.372 [main] INFO  c.e.j.c.DatabaseConfiguration - Creating JdbcTemplate bean
+2026-04-08 13:23:56.393 [main] INFO  c.ehu.javacafe.service.CoffeeService - Service: Fetching all beverages
+2026-04-08 13:23:56.393 [main] INFO  c.e.j.r.impl.DBBeverageRepository - Fetching all beverages from H2 database
+2026-04-08 13:23:56.579 [main] DEBUG c.e.j.r.impl.DBBeverageRepository - Retrieved 11 beverages from database
+2026-04-08 13:23:56.579 [main] DEBUG c.ehu.javacafe.service.CoffeeService - Service: Retrieved 11 beverages

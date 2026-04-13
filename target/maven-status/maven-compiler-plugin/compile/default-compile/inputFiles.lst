@@ -1,0 +1,13 @@
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\configuration\DatabaseConfiguration.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\entity\Beverage.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\MainAnnotation.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\repository\BeverageCrudRepository.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\repository\BeverageRepository.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\repository\impl\DBBeverageRepository.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\repository\impl\JSONBeverageRepository.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\repository\impl\Logger.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\service\BeverageSelectionStatsService.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\service\BeverageSelector.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\service\BeverageSelectorRandom.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\service\CoffeeService.java
+D:\InteliJ_workspace\Java_lab_master\Year3_semester2\SpringTask\task\src\main\java\com\ehu\javacafe\service\DailyBeverageDiscountService.java

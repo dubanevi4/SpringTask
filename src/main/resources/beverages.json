@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Espresso",
+    "id": 1,
+    "price": 2.50,
+    "description": "Strong and bold coffee shot"
+  },
+  {
+    "name": "Latte",
+    "id": 2,
+    "price": 3.50,
+    "description": "Smooth blend of espresso and steamed milk"
+  },
+  {
+    "name": "Cappuccino",
+    "id": 3,
+    "price": 3.00,
+    "description": "Espresso with frothy milk foam"
+  },
+  {
+    "name": "Mocha",
+    "id": 4,
+    "price": 4.00,
+    "description": "Chocolate-flavored coffee drink"
+  }
+]
+

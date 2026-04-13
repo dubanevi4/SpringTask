@@ -1,0 +1,50 @@
+2026-04-09 11:24:42.501 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Successfully loaded 4 beverages from JSON file
+2026-04-09 11:24:42.514 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-09 11:24:42.515 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-09 11:24:42.521 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-09 11:24:42.522 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-09 11:24:42.523 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-09 11:24:42.524 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-09 11:24:43.123 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2026-04-09 11:24:43.229 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 97 ms. Found 1 JDBC repository interface.
+2026-04-09 11:24:43.654 [main] INFO  c.e.j.c.DatabaseConfiguration - Configuring H2 embedded database
+2026-04-09 11:24:43.683 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-04-09 11:24:44.295 [main] INFO  c.e.j.c.DatabaseConfiguration - H2 database configured successfully
+2026-04-09 11:24:44.815 [main] INFO  c.e.j.r.impl.DBBeverageRepository - DBBeverageRepository initialized with Spring Data JDBC
+2026-04-09 11:24:44.819 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Successfully loaded 4 beverages from JSON file
+2026-04-09 11:24:44.822 [main] INFO  c.e.j.c.DatabaseConfiguration - Creating JdbcTemplate bean
+2026-04-09 11:24:44.869 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Shutting down embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false'
+2026-04-09 11:25:37.500 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Successfully loaded 4 beverages from JSON file
+2026-04-09 11:25:37.507 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-09 11:25:37.507 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-09 11:25:37.512 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-09 11:25:37.513 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-09 11:25:37.514 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-09 11:25:37.515 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-09 11:25:38.117 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2026-04-09 11:25:38.230 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 102 ms. Found 1 JDBC repository interface.
+2026-04-09 11:25:38.629 [main] INFO  c.e.j.c.DatabaseConfiguration - Configuring H2 embedded database
+2026-04-09 11:25:38.646 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-04-09 11:25:39.105 [main] INFO  c.e.j.c.DatabaseConfiguration - H2 database configured successfully
+2026-04-09 11:25:39.639 [main] INFO  c.e.j.r.impl.DBBeverageRepository - DBBeverageRepository initialized with Spring Data JDBC
+2026-04-09 11:25:39.643 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Successfully loaded 4 beverages from JSON file
+2026-04-09 11:25:39.646 [main] INFO  c.e.j.c.DatabaseConfiguration - Creating JdbcTemplate bean
+2026-04-09 11:25:39.700 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Shutting down embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false'
+2026-04-09 11:41:13.430 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2026-04-09 11:41:13.569 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 124 ms. Found 1 JDBC repository interface.
+2026-04-09 11:41:13.962 [main] INFO  c.e.j.c.DatabaseConfiguration - Configuring H2 embedded database
+2026-04-09 11:41:13.980 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-04-09 11:41:14.484 [main] INFO  c.e.j.c.DatabaseConfiguration - H2 database configured successfully
+2026-04-09 11:41:15.097 [main] INFO  c.e.j.r.impl.DBBeverageRepository - DBBeverageRepository initialized with Spring Data JDBC
+2026-04-09 11:41:15.511 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Successfully loaded 4 beverages from JSON file
+2026-04-09 11:41:15.518 [main] INFO  c.e.j.c.DatabaseConfiguration - Creating JdbcTemplate bean
+2026-04-09 11:41:15.572 [main] INFO  c.ehu.javacafe.service.CoffeeService - Service: Fetching all beverages
+2026-04-09 11:41:15.573 [main] INFO  c.e.j.r.impl.JSONBeverageRepository - Fetching all beverages from JSON repository
+2026-04-09 11:41:15.573 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Total beverages available: 4
+2026-04-09 11:41:15.573 [main] DEBUG c.ehu.javacafe.service.CoffeeService - Service: Retrieved 4 beverages
+2026-04-09 11:41:15.575 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Fetching beverage by ID: 4
+2026-04-09 11:41:15.579 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Fetching beverage by ID: 4
+2026-04-09 11:41:15.579 [main] DEBUG c.e.j.r.impl.JSONBeverageRepository - Fetching beverage by ID: 4
+2026-04-09 11:41:15.581 [main] INFO  c.e.j.s.BeverageSelectionStatsService - Beverage selection stats: {4=3}
+2026-04-09 11:41:18.592 [main] INFO  c.e.j.s.DailyBeverageDiscountService - DailyBeverageDiscountService initialized
+2026-04-09 11:41:18.595 [main] INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Shutting down embedded database: url='jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false'
