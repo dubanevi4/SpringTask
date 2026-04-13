@@ -3,7 +3,7 @@ package com.ehu.javacafe;
 import com.ehu.javacafe.entity.Beverage;
 import com.ehu.javacafe.service.BeverageSelectorRandom;
 import com.ehu.javacafe.service.CoffeeService;
-import com.ehu.javacafe.service.DailyBeverageDiscountService;
+import com.ehu.javacafe.service.DiscountRunnerService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
@@ -22,8 +22,8 @@ public class MainAnnotation {
 
         int nSeconds = 3;
         Thread.sleep(nSeconds * 1000L);
-        DailyBeverageDiscountService dailyBeverageDiscountService = ctx.getBean(DailyBeverageDiscountService.class);
-        dailyBeverageDiscountService.getTodayDiscountPercent();
+        DiscountRunnerService discountRunnerService = ctx.getBean(DiscountRunnerService.class);
+        discountRunnerService.fetchDiscountPercent();
         ctx.close();
     }
 }
